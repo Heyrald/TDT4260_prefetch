@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+build
+data
+output
+scripts
+LESMEG
+.vscode
+*SConscript
+*.hh
+Makefile
